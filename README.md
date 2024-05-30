@@ -25,9 +25,10 @@ The Airline Catering System is a simple application built using Visual Basic .NE
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/thomasalex122/Airline-Catering-System.git
-2.*Open in Visual Studio**:
-```
-3.**Configure Database:**:
+2.**Open in Visual Studio**:
+   
+
+3.**Configure Database**:
 ```
 
 4.**Run the Application**:
